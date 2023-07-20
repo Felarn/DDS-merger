@@ -1,0 +1,20 @@
+{
+  "name": "dds-merger",
+  "version": "1.0.0",
+  "description": "combines multiple dds files as layers into png file",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Felarn/dds-merger.git"
+  },
+  "author": "Felarn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Felarn/dds-merger/issues"
+  },
+  "homepage": "https://github.com/Felarn/dds-merger#readme"
+}
